@@ -1,0 +1,2 @@
+# Openbooth
+Opensource photobooth program
